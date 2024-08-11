@@ -13,7 +13,7 @@ export const Information = () => {
       </a>
     </div>
     <div className="flex-grow flex items-center">
-      <img className="w-full h-full object-cover rounded-md shadow-xl shadow-black" src="/talking_pic.jpg" alt="" />
+      <img className="w-full h-full object-cover rounded-md shadow-xl shadow-black" src="/advance/talking_pic.jpg" alt="" />
     </div>
   </section>
   

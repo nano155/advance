@@ -5,7 +5,7 @@ export const NavBar = () => {
     <section className="flex h-24 bg-slate-800 px-10 justify-between font-normal text-xl tracking-wide">
         <article className="flex items-center text-primary-400 hover:text-primary-600">
             <Link to='/' className="flex items-center gap-3">
-                <img className="w-8 h-8" src="/logo advanced-Photoroom.png" alt="Logo" />
+                <img className="w-8 h-8" src="logo advanced-Photoroom.png" alt="Logo" />
                 <p className="uppercase">Advance Management</p>
             </Link>
         </article>  

@@ -5,7 +5,7 @@ export const Information2 = () => {
     <section className="flex justify-center gap-20 mx-24 py-8">
   <div className="flex-grow flex items-center">
     <div className="w-full h-full flex">
-      <img className="w-full h-full object-cover rounded-md" src="/image_red.jpg" alt="" />
+      <img className="w-full h-full object-cover rounded-md" src="/advance/image_red.jpg" alt="" />
     </div>
   </div>
   <div className="flex flex-col bg-primary-950 py-10 gap-3 px-20 rounded-md flex-grow">
